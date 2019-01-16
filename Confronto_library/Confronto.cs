@@ -2,7 +2,7 @@
 
 namespace Confronto_library
 {
-    public class Class1
+    public class Confronto
     {
 
     }
